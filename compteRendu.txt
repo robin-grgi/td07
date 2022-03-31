@@ -1,3 +1,5 @@
+Ce compte rendu sera plus lisible via l'adresse suivante : https://github.com/robin-grgi/td07/blob/master/compteRendu.md
+
 # TD 7 Signaux
 ## Manipulations élémentaires de signaux
 ### Exercice 1
